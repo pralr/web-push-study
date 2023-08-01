@@ -1,0 +1,142 @@
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\appsettings.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\PushFinal.staticwebassets.runtime.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\PushFinal.exe
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\PushFinal.deps.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\PushFinal.runtimeconfig.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\PushFinal.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\PushFinal.pdb
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\Humanizer.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\WebPush.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\obj\Debug\net6.0\PushFinal.csproj.AssemblyReference.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\obj\Debug\net6.0\PushFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\obj\Debug\net6.0\PushFinal.AssemblyInfoInputs.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\obj\Debug\net6.0\PushFinal.AssemblyInfo.cs
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\obj\Debug\net6.0\PushFinal.csproj.CoreCompileInputs.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\obj\Debug\net6.0\PushFinal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\obj\Debug\net6.0\PushFinal.RazorAssemblyInfo.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\obj\Debug\net6.0\PushFinal.RazorAssemblyInfo.cs
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\obj\Debug\net6.0\staticwebassets\msbuild.PushFinal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\obj\Debug\net6.0\staticwebassets\msbuild.build.PushFinal.props
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PushFinal.props
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PushFinal.props
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\obj\Debug\net6.0\scopedcss\bundle\PushFinal.styles.css
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\obj\Debug\net6.0\scopedcss\projectbundle\PushFinal.bundle.scp.css
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\obj\Debug\net6.0\PushFinal.csproj.CopyComplete
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\obj\Debug\net6.0\PushFinal.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\obj\Debug\net6.0\refint\PushFinal.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\obj\Debug\net6.0\PushFinal.pdb
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\obj\Debug\net6.0\PushFinal.genruntimeconfig.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Push Notification Final\PushFinal\PushFinal\obj\Debug\net6.0\ref\PushFinal.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\appsettings.Development.json
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\appsettings.json
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\PushFinal.staticwebassets.runtime.json
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\PushFinal.exe
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\PushFinal.deps.json
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\PushFinal.runtimeconfig.json
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\PushFinal.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\PushFinal.pdb
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\Humanizer.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\WebPush.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projetos Git\PushFinal\PushFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Projetos Git\PushFinal\PushFinal\obj\Debug\net6.0\PushFinal.csproj.AssemblyReference.cache
+C:\Projetos Git\PushFinal\PushFinal\obj\Debug\net6.0\PushFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Git\PushFinal\PushFinal\obj\Debug\net6.0\PushFinal.AssemblyInfoInputs.cache
+C:\Projetos Git\PushFinal\PushFinal\obj\Debug\net6.0\PushFinal.AssemblyInfo.cs
+C:\Projetos Git\PushFinal\PushFinal\obj\Debug\net6.0\PushFinal.csproj.CoreCompileInputs.cache
+C:\Projetos Git\PushFinal\PushFinal\obj\Debug\net6.0\PushFinal.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos Git\PushFinal\PushFinal\obj\Debug\net6.0\PushFinal.RazorAssemblyInfo.cache
+C:\Projetos Git\PushFinal\PushFinal\obj\Debug\net6.0\PushFinal.RazorAssemblyInfo.cs
+C:\Projetos Git\PushFinal\PushFinal\obj\Debug\net6.0\staticwebassets\msbuild.PushFinal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projetos Git\PushFinal\PushFinal\obj\Debug\net6.0\staticwebassets\msbuild.build.PushFinal.props
+C:\Projetos Git\PushFinal\PushFinal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PushFinal.props
+C:\Projetos Git\PushFinal\PushFinal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PushFinal.props
+C:\Projetos Git\PushFinal\PushFinal\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Projetos Git\PushFinal\PushFinal\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projetos Git\PushFinal\PushFinal\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projetos Git\PushFinal\PushFinal\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Projetos Git\PushFinal\PushFinal\obj\Debug\net6.0\scopedcss\bundle\PushFinal.styles.css
+C:\Projetos Git\PushFinal\PushFinal\obj\Debug\net6.0\scopedcss\projectbundle\PushFinal.bundle.scp.css
+C:\Projetos Git\PushFinal\PushFinal\obj\Debug\net6.0\PushFinal.csproj.CopyComplete
+C:\Projetos Git\PushFinal\PushFinal\obj\Debug\net6.0\PushFinal.dll
+C:\Projetos Git\PushFinal\PushFinal\obj\Debug\net6.0\refint\PushFinal.dll
+C:\Projetos Git\PushFinal\PushFinal\obj\Debug\net6.0\PushFinal.pdb
+C:\Projetos Git\PushFinal\PushFinal\obj\Debug\net6.0\PushFinal.genruntimeconfig.cache
+C:\Projetos Git\PushFinal\PushFinal\obj\Debug\net6.0\ref\PushFinal.dll
